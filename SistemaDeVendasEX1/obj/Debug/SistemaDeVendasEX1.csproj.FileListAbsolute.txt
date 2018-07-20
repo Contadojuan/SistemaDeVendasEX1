@@ -1,0 +1,7 @@
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\SistemaDeVendasEX1\SistemaDeVendasEX1\bin\Debug\SistemaDeVendasEX1.exe.config
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\SistemaDeVendasEX1\SistemaDeVendasEX1\bin\Debug\SistemaDeVendasEX1.exe
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\SistemaDeVendasEX1\SistemaDeVendasEX1\bin\Debug\SistemaDeVendasEX1.pdb
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\SistemaDeVendasEX1\SistemaDeVendasEX1\obj\Debug\SistemaDeVendasEX1.csprojAssemblyReference.cache
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\SistemaDeVendasEX1\SistemaDeVendasEX1\obj\Debug\SistemaDeVendasEX1.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\SistemaDeVendasEX1\SistemaDeVendasEX1\obj\Debug\SistemaDeVendasEX1.exe
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\SistemaDeVendasEX1\SistemaDeVendasEX1\obj\Debug\SistemaDeVendasEX1.pdb
